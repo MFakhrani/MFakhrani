@@ -13,7 +13,7 @@ A simple programmer 😊 fun to work with, I always like to learn new things fro
 
 <hr>
 
-| <a href="https://github.com/MFakhrnai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MFakhrani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MFakhrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFakhrani&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/MFakhrnai/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFakhrani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MFakhrani/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MFakhrani&layout=compact&theme=buefy&hide_border=true" /></a> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <p dir="auto">The languages and tools that we spend our time together:</p>
 <p dir="auto">
