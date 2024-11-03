@@ -1,24 +1,84 @@
-<center>
-<h3>Hi there 👋 , I'm Mohammad </h3>
+<h1 align="center">Hi there, I'm Mohammad! 👋🌟</h1>
+<h3 align="center">Innovative Developer | Open Source Advocate | Tech Enthusiast 🚀</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MFakhrani-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammad-fakhrani/)](https://www.linkedin.com/in/mohammad-fakhrani/)  [![GitHub followers](https://img.shields.io/github/followers/MFakhrani?label=Follow&style=social)](https://github.com/MFakhrani/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-mohammad.fakhrani@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mohammad.fakhrani@gmail.com)](mailto:mohammad.fakhrani@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-fakhrani/" target="_blank">
+    <img src="https://img.shields.io/badge/-Mohammad_Fakhrani-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammad.fakhrani@gmail.com">
+    <img src="https://img.shields.io/badge/-mohammad.fakhrani@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MFakhrani?tab=followers">
+    <img src="https://img.shields.io/github/followers/MFakhrani?label=Follow&style=social" />
+  </a>
+</p>
 
-</center>
+---
 
-
-
-<div align="left">
-A simple programmer 😊 fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.🎉
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50" />&nbsp; 
+  <strong>"Let's code a better future!"</strong> 
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50" />
 </div>
 
-<hr>
+<br>
 
-| <a href="https://github.com/MFakhrnai/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFakhrani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MFakhrani/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MFakhrani&layout=compact&theme=buefy&hide_border=true" /></a> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-<p dir="auto">The languages and tools that we spend our time together:</p>
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1a4d5408f38633294b32bfcee03c20cb072bf7bf2169bfefd23e6cbaeaf80ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870"><img src="https://camo.githubusercontent.com/c1a4d5408f38633294b32bfcee03c20cb072bf7bf2169bfefd23e6cbaeaf80ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870" alt="PHP" data-canonical-src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9aa0832500e5e13cc3d8bc68213a5888624a8e3f392b5e7fab4600982730838f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c"><img src="https://camo.githubusercontent.com/9aa0832500e5e13cc3d8bc68213a5888624a8e3f392b5e7fab4600982730838f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c" alt="Laravel" data-canonical-src="https://img.shields.io/badge/-Laravel-05122A?style=flat&amp;logo=laravel" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width: 100%;"></a>&nbsp;
+### 🧑‍💻 About Me
+I'm an enthusiastic programmer specializing in innovative projects and solutions that make a difference! I love open-source development and believe in a world where knowledge and creativity are accessible to everyone. 🌐💡
+
+- 🔭 **Current Projects**: I'm working on various open-source and industry-focused projects.
+- 🌱 **Learning Focus**: I’m constantly evolving in JavaScript, PHP, and backend technologies.
+- ⚡ **Fun Fact**: Debugging is my favorite kind of puzzle-solving!
+
+---
+
+### 🏆 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MFakhrani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MFakhrani&layout=compact&theme=radical&hide_border=true" width="325" alt="Most Used Languages" /></td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFakhrani&theme=radical" width="800" alt="Profile Summary" />
+</p>
+
+
+---
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 🔥 Projects & Experience
+
+Here’s a glimpse of the diverse fields I’ve worked in, each designed to bring value and efficiency to different industries:
+
+- **Online Store Development** ([Digilara.ir](https://digilara.ir)) 🌐: Building and managing a digital marketplace for consumer products.
+- **Comprehensive Engine Repair System for Aviation** ✈️: A dedicated solution to streamline and monitor engine repair processes for aviation needs.
+- **Business Intelligence System** 📊: Empowering data-driven decisions with insightful analytics and visualization tools.
+- **Form Builder System** 📋: A dynamic tool for creating and managing customized organizational forms.
+- **Process Management System** 🔄: A powerful BPM tool for enhancing process control and automation.
+- **Field Force Management System** 🚀: A real-time tracking and performance monitoring platform for field personnel.
+
+---
+
+### 🌐 Connect & Collaborate
+
+I’m always looking to connect with other innovators and creators! If you’re interested in collaborating on impactful projects, let’s make it happen.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
 </p>
